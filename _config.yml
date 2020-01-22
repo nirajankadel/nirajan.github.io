@@ -1,5 +1,0 @@
-webrick:
-    webserver_headers:
-        Referrer-Policy: no-referrer
-        X-Frame-Options: SAMEORIGIN
-        X-XSS-Protection: 1
